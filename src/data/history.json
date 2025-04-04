@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Machine Learning Intern",
+    "organisation": "Pridesan Engineers",
+    "startDate": "AJune, 2021",
+    "endDate": "July, 2023",
+    "experiences": ["Built predictive models using Python", "Deployed models via Flask APIs, ensuring seamless integration"],
+    "imageSrc": "history/prid.png"
+  },
+  {
+    "role": "Undergrad Research Assistant",
+    "organisation": "Amrita School of Engineering",
+    "startDate": "Jan, 2023",
+    "endDate": "May, 2023",
+    "experiences": ["Machine Learning-based Irrigation Water Quality Prediction System", "Analysed water quality data using ARIMA, Random Forest, and SVM"],
+    "imageSrc": "history/Amrita.png"
+  },
+  {
+    "role": "Certifications",
+    "organisation": "Various Online Platforms",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "Azure AI Fundamentals",
+      "Google Data Analytics Specialization",
+      "Machine Learning Specialization"
+    ],
+    "imageSrc": "history/certs.png"
+  }
+]

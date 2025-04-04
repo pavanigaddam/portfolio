@@ -1,0 +1,12 @@
+:root {
+  /* Colours */
+  --color-text: #4a4a4a;
+  --color-primary: #f8bbd0;     /* Soft pink */
+  --color-secondary: #e1bee7;   /* Lavender */
+  --color-dark: #ba68c8;        /* Purple accent */
+  --color-bg: #fff0f6;          /* Light blush background */
+
+  /* Fonts */
+  --font-primary: "Poppins", sans-serif;
+  --font-accent: "Playfair Display", serif;
+}
