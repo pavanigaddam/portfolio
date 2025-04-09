@@ -2,7 +2,7 @@
   {
     "role": "Machine Learning Intern",
     "organisation": "Pridesan Engineers",
-    "startDate": "AJune, 2021",
+    "startDate": "June, 2021",
     "endDate": "July, 2023",
     "experiences": ["Built predictive models using Python", "Deployed models via Flask APIs, ensuring seamless integration"],
     "imageSrc": "history/prid.png"
